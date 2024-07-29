@@ -1,0 +1,7 @@
+streamlit
+nbformat
+python-dotenv
+transformers
+torch
+numpy
+google-generativeai
